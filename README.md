@@ -22,12 +22,14 @@ The screenshot belows shows the data after all these steps have been completed.
 
 
 ### Deliverable 2: Reducing Data Dimensions Using PCA
-Deliverable 2 is reducing data dimensions using PCA. A PCA algorithm is used and a new Dataframe is created to include columns PC 1, PC 2, and PC 3, while using an index.
+Deliverable 2 is reducing data dimensions using PCA. A PCA algorithm is used and a new Dataframe is created to include columns PC 1, PC 2, and PC 3, while using an index. The output is shown below. 
 
 ![](Crypto6.PNG)
 
 
 ### Deliverable 3: Clustering Cryptocurrencies Using K-means
+In Deliverable 3 an elbow curve is created using the hvPlot to find the best value for K. Below is the output.
+
 Elbow curve:
 ![](Crypto1.PNG)
 
