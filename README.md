@@ -30,7 +30,7 @@ Elbow curve:
 ![](Crypto1.PNG)
 
 Clusters plotted in 3D dataframe:
-![](Crypto2.PNG)
+![](Crypto2.png)
 
 Cryptocurrencies dataframe:
 ![](Crypto3.PNG)
