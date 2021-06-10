@@ -5,7 +5,7 @@ Module 18: Unsupervised Machine Learning and Cryptocurrencies
 This project involves the use of unsupervised machine learning to use on a cryptocurrencies dataset. Here, we create an analysis of the current cryptocurrency market - a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system.
 
 ## Resources
-- Data Source:
+- Data Source: crypto_data.csv
 - Software: Jupyter Notebook,  Python
 
 ### Deliverables
