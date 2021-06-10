@@ -22,7 +22,8 @@ The screenshot belows shows the data after all these steps have been completed.
 
 
 ### Deliverable 2: Reducing Data Dimensions Using PCA
-Deliverable 2 is reducing data dimensions using PCA. 
+Deliverable 2 is reducing data dimensions using PCA. A PCA algorithm is used and a new Dataframe is created to include columns PC 1, PC 2, and PC 3, while using an index.
+
 ![](Crypto6.PNG)
 
 
