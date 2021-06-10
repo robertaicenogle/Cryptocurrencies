@@ -13,3 +13,18 @@ This project involves the use of
 - Deliverable 2: Reducing Data Dimensions Using PCA
 - Deliverable 3: Clustering Cryptocurrencies Using K-means
 - Deliverable 4: Visualizing Cryptocurrencies Results
+
+### Deliverable 1: Preprocessing the Data for PCA
+![](Crypto.PNG)
+![](Crypto1.PNG)
+
+
+### Deliverable 2: Reducing Data Dimensions Using PCA
+![](Crypto2.PNG)
+
+
+### Deliverable 3: Clustering Cryptocurrencies Using K-means
+![](Crypto3.PNG)
+
+### Deliverable 4: Visualizing Cryptocurrencies Results
+![](Crypto4.PNG)
