@@ -6,7 +6,7 @@ This project involves the use of
 
 ## Resources
 - Data Source:
-- Software:
+- Software: Jupyter Notebook,  Python
 
 ### Deliverables
 - Deliverable 1: Preprocessing the Data for PCA
