@@ -33,9 +33,6 @@ In Deliverable 3 an elbow curve is created using the hvPlot to find the best val
 Elbow curve:
 ![](Crypto1.PNG)
 
-Clusters plotted in 3D dataframe:
-![](Crypto2.png)
-
 Cryptocurrencies dataframe:
 ![](Crypto3.PNG)
 
@@ -44,6 +41,10 @@ Clustered dataframe below:
 
 
 ### Deliverable 4: Visualizing Cryptocurrencies Results
+
+Below is a 3D-Scatter with the PCA data. 
+![](Crypto2.png)
+
 Total Coins Supply vs Total Coins Mined:
 ![](Crypto4.PNG)
 
