@@ -33,9 +33,6 @@ In Deliverable 3 an elbow curve is created using the hvPlot to find the best val
 Elbow curve:
 ![](Crypto1.PNG)
 
-Cryptocurrencies dataframe:
-![](Crypto3.PNG)
-
 Clustered dataframe below:
 ![](Crypto7.PNG)
 
