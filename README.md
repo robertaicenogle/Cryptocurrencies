@@ -17,11 +17,12 @@ This project involves the use of
 ### Deliverable 1: Preprocessing the Data for PCA
 For Deliverable 1, the data was preprocessed for PCA. The cryptocurrencies that were being traded were kept, dropped the 'IsTrading' column, filter through the data so it only keeps coins that have been mined, and remove CoinName from the Dataframe. 
 The screenshot belows shows the data after all these steps have been completed.
-![](Crypto8.PNG)
+
+![](Crypto.PNG)
 
 
 ### Deliverable 2: Reducing Data Dimensions Using PCA
-Reducing data to get data frame below?
+Deliverable 2 is reducing data dimensions using PCA. 
 ![](Crypto6.PNG)
 
 
