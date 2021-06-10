@@ -2,7 +2,7 @@
 Module 18: Unsupervised Machine Learning and Cryptocurrencies
 
 ## Project Overview
-This project involves the use of 
+This project involves the use of unsupervised machine learning to use on a cryptocurrencies dataset. 
 
 ## Resources
 - Data Source:
@@ -33,8 +33,6 @@ In Deliverable 3 an elbow curve is created using the hvPlot to find the best val
 Elbow curve:
 ![](Crypto1.PNG)
 
-Clustered dataframe below:
-![](Crypto7.PNG)
 
 
 ### Deliverable 4: Visualizing Cryptocurrencies Results
