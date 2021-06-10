@@ -20,7 +20,7 @@ This project involves the use of
 
 
 ### Deliverable 2: Reducing Data Dimensions Using PCA
-![](Crypto2.PNG)
+![](Crypto2.png)
 
 
 ### Deliverable 3: Clustering Cryptocurrencies Using K-means
