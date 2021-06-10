@@ -43,7 +43,7 @@ Below is a 3D-Scatter with the PCA data.
 ![](Crypto2.png)
 
 Crypto
-![](Crypto9.PNG)
+![](Crypto9.png)
 
 Total Coins Supply vs Total Coins Mined:
 ![](Crypto4.PNG)
