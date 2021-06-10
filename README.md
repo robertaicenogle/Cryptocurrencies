@@ -22,7 +22,7 @@ The screenshot belows shows the data after all these steps have been completed.
 
 ### Deliverable 2: Reducing Data Dimensions Using PCA
 Reducing data to get data frame below?
-![](Crypto6.png)
+![](Crypto6.PNG)
 
 
 ### Deliverable 3: Clustering Cryptocurrencies Using K-means
