@@ -42,9 +42,9 @@ Clustered dataframe below:
 Below is a 3D-Scatter with the PCA data. 
 ![](Crypto2.png)
 
-Crypto
+Below is a table with the tradeable cryptocurrencies.
 ![](Crypto9.png)
 
-Total Coins Supply vs Total Coins Mined:
+Total Coins Supply vs Total Coins Mined Scatter Plot:
 ![](Crypto4.PNG)
 
